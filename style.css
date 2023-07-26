@@ -478,11 +478,18 @@ nav ul li a:hover{
     font-family: 'Montserrat', sans-serif;
     color: black;
     font-size: 15px;
+
+}
+.form-cartes div ul, .form-cartes-mouveo div ul{
+    text-align: start;
 }
 .form-cartes div img, .form-cartes-mouveo div img{
     margin-left: 80%;
     width: 70px;
     height: 70px;
+}
+.form-cartes a{    
+    margin-left: 80%;
 }
 
 
